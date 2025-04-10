@@ -1,7 +1,7 @@
 // src/App.jsx
 
 import React, { useState } from "react";
-import { Button } from "@/components/ui/button";
+<button>Click Me</button>
 import { Card, CardContent } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 
